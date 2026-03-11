@@ -132,7 +132,7 @@ Use :
 <p>Approved claims are instantly processed using a simulated payment gateway. Workers receive compensation for lost earnings without manual paperwork.</p>
 <hr>
 <h2><b>Expected Impact: </b></h2>
-<p>YThis platform creates a safety net for gig workers by protecting their income during uncontrollable external disruptions.
+<p>This platform creates a safety net for gig workers by protecting their income during uncontrollable external disruptions.
 By automating insuarance payouts using AI and parametric triggers, we enable faster, fairer, and more accessible insurance for gig economy.</p>
 
 
